@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/admoseley/littleduckling/issues"
   },
+  "engines": {
+    "node": "11.3.0"
+  },
   "homepage": "https://github.com/admoseley/littleduckling#readme"
 }
