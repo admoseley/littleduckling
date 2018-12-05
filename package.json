@@ -1,0 +1,22 @@
+{
+  "name": "nodehello",
+  "version": "1.0.0",
+  "description": "Test NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admoseley/littleduckling.git"
+  },
+  "keywords": [
+    "HelloWorld"
+  ],
+  "author": "Adrian D. Moseley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admoseley/littleduckling/issues"
+  },
+  "homepage": "https://github.com/admoseley/littleduckling#readme"
+}
